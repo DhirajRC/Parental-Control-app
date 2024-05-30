@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChildSheild</string>
+    <string name="accessibility_service_label">Instagram Accessibility Service</string>
+    <string name="accessibility_service_description">Accessibility service to detect when the Instagram app is opened</string>
+    <string name="accessibility_service_descriptionw">Accessibility service to detect when the whatsapp app is opened</string>
+
+</resources>

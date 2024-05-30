@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "155814380139",
+    "firebase_url": "https://parental-control-app1-0-default-rtdb.firebaseio.com",
+    "project_id": "parental-control-app1-0",
+    "storage_bucket": "parental-control-app1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155814380139:android:778617d9cebf83a9f5a72e",
+        "android_client_info": {
+          "package_name": "com.example.childsheild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdNFp0hi9fFYGuuh9iEtM3eDlWHmYRVkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155814380139:android:359fb0b971e50910f5a72e",
+        "android_client_info": {
+          "package_name": "com.example.parental_control_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdNFp0hi9fFYGuuh9iEtM3eDlWHmYRVkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
