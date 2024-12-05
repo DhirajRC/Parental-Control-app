@@ -95,7 +95,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyB01co5XCprsmuSzBmKzxQFCvJGlTDk-sE" />
+            android:value="API" />
 
         <receiver
             android:name=".SMSBroadcastReceiver"
